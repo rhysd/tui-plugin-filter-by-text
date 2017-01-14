@@ -1,7 +1,8 @@
 Tweet Filter Plugin for Tui
 ===========================
 
-This is a plugin for [Tui](https://github.com/rhysd/Tui). So please install it before installing this.
+This is a plugin for [Tui](https://github.com/rhysd/Tui) to filter tweets in timeline by text or regular expression.
+So please install it before installing this.
 
 ## Installation
 
